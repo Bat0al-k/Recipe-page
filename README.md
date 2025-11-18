@@ -5,8 +5,8 @@ It helped me practice clean semantic HTML, responsive layout, and structured CSS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Bat0al-k/Recipe-page)
+- Live Site URL: [Add live site URL here](https://recipe-page-theta-six.vercel.app/)
 
 ## My process
 ### Built with
@@ -43,5 +43,5 @@ Flexbox Guide
 
 ## Author
 
-- Website - [batoal-karam](https://www.Recipe page.com)
+- Website - [batoal-karam](https://recipe-page-theta-six.vercel.app/)
 - Frontend Mentor - [@Bat0al-k](https://www.frontendmentor.io/profile/Bat0al-k)
